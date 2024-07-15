@@ -1,0 +1,253 @@
+@media (max-width:425px){
+     .top-nav{
+          display: none !important;
+     }
+     .tusted-caption{
+          font-size: 10px !important;
+     }
+     .tru-title{
+          font-size: 10px;
+     }
+}
+@media (min-width:768px){
+     #logo img{
+          max-width: 100%;
+     }
+     .blog-left-side .quote-wrapper{
+          padding: 30px;
+     }
+}
+@media (max-width:768px){
+     .top-nav{
+          display: none !important;
+     }
+     .text .sli-title{
+          font-size: 18px !important;
+     }
+     .text .sli-name{
+          font-size: 50px !important;
+     }
+     .tusted-caption{
+          margin-left: 0;
+          padding: 30px 1px;
+     }
+     .team-space{
+          padding-top: 110px;
+          padding-bottom: 80px;
+     }
+     .trusted-padding{
+          padding-top: 50px;
+     }
+     .single-services{
+          padding: 30px;
+     }
+     .ser-padding{
+          padding: 50px 0;
+     }
+     .ser-title{
+          margin-bottom: 50px;
+     }
+     .single-cases-info{
+          left: 1%;
+          margin-top: 10px;
+     }
+     .completed-cases .owl-carousel.owl-loaded {
+          right: 0;
+     }
+     .completed-padding{
+          padding-top: 40px;
+          padding-bottom: 70px;
+     }
+     .resent-area{
+          padding-top: 60px;
+          padding-bottom: 28px;
+     }
+     .request-back-area {
+          padding: 80px 0px;
+     }
+     .send-btn{
+          padding: 27px;
+          width: 100%;
+     }
+     .testi-para {
+          font-size: 17px;
+          padding: 0 0px;
+     }
+}
+@media (max-width:992px){
+     .main-menu{
+          display: none !important;
+     }
+     #logo img{
+          max-width: 100%;
+     }
+     .header-btn{
+          display: none;
+     }
+     .menu-icon{
+          display: block;
+     }
+     .tablate-menu{
+          background-color: #fff;
+          display: block;
+          top: 100% !important;
+          left: 0 !important;
+          width: 100%;
+          z-index: 999;
+     }
+     .tablate-menu a{
+          margin: 2px 5px;
+     }
+     .tablate-menu li a{
+          display: block;
+          color: black;
+          font-size: 14px;
+          font-weight: 400;
+          padding: 10px 19px;
+     }
+     .menu-icon{
+          top: 5px;
+          right: 15px;
+     }
+     .menu-icon i{
+          font-size: 25px;
+          color: #E6373D;
+     }
+     .plus-icon1, .plus-icon2{
+          font-size: 14px;
+          height: 30px;
+          width: 30px;
+          padding-top: 5px;
+          text-align: center;
+          position: absolute;
+          right: 30px;
+          border: 0;
+     }
+     .tablate-sub-menu{
+          display: none;
+     }
+     .tablate-menu li:hover .tablate-sub-menu{
+          display: block !important;
+     }
+     .sli-btn{
+          display: block;
+     }
+     .text .sli-title{
+          color: var(--bglightred);
+          font-size: 15px;
+     }
+     .text .sli-name{
+          font-size: 30px !important;
+     }
+     .tru-title{
+          font-size: 35px;
+     }
+     .trusted-btn{
+          display: block;
+     }
+     
+}
+@media (max-width:1024px){
+     .owl-carousel .owl-nav button.owl-prev,
+     .owl-carousel .owl-nav button.owl-next{
+          display: none;
+     }
+     .text .sli-title{
+          color: var(--bglightred);
+          font-size: 15px;
+     }
+     .text .sli-name{
+          font-size: 55px;
+     }
+}
+@media (min-width:1024px){
+     header{
+          box-shadow: none ;
+     }
+}
+@media (max-width:1199px) and (min-width:992px){
+     .team-space{
+          padding-top: 110px;
+          padding-bottom: 80px;
+     }
+     .trusted-padding{
+          padding-top: 100px;
+     }
+     .single-services{
+          padding: 26px;
+     }
+     .tusted-caption{
+          padding: 35px !important;
+     }
+     .cases-left p{
+          margin-bottom: 20px !important;
+     }
+     .single-cases-info{
+          left: 38%;
+          margin-top: 0px !important;
+     }
+     .completed-padding{
+          padding: 150px 0;
+     }
+     .resent-area{
+          padding-top: 150px;
+          padding-bottom: 120px;
+     }
+     .request-back-area {
+          padding: 80px 0px;
+     }
+     .send-btn{
+          padding: 27px;
+          width: 150px;
+     }
+     .instragram-feeds .instra-img img{
+          width: 100%;
+     }
+     
+}
+@media (min-width:768px) and (max-width:991px){
+     .team-space{
+          padding-top: 110px;
+          padding-bottom: 80px;
+     }
+     .trusted-padding{
+          padding-top: 100px;
+     }
+     .ser-padding{
+          padding: 100px 0;
+     }
+     .single-services{
+          padding: 40px;
+     }
+     .single-cases-info{
+          left: 17%;
+          margin-top: 40px !important;
+     }
+     .completed-cases .owl-carousel.owl-loaded {
+          right: 0;
+     }
+     .completed-padding{
+          padding-top: 50px;
+          padding-bottom: 100px;
+     }
+     .resent-area{
+          padding-top: 100px;
+          padding-bottom: 70px;
+     }
+     .request-back-area {
+          padding: 80px 0px;
+     }
+     .send-btn{
+          padding: 27px;
+          width: 105px;
+     }
+
+}
+@media (max-width: 413px){
+     .comment{
+          font-size: 10px;
+     }
+     .instra-img img{
+          width: 100%;
+     }
+}
